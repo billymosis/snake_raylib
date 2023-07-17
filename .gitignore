@@ -1,0 +1,9 @@
+include
+lib
+bin
+.idea
+nohup.out
+.cache
+compile_commands.json
+vendor/raylib-cpp/
+vendor/raylib/
